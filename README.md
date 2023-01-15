@@ -1,10 +1,12 @@
 exemplo de como funciona o programa
 
+
 Tabuada de: 10
 
 Escolher o (número inicial) de repetições: 10
 
 Digite o (máximo) de repetições: 13
+
 
 resultado:
 
