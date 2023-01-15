@@ -1,4 +1,4 @@
-exemplo de como funciona o programa
+#Exemplo de como funciona o programa
 
 
 Tabuada de: 10
