@@ -1,3 +1,5 @@
+obs.: este programa possui 27 linhas.
+
 #Exemplo de como funciona o programa
 
 
